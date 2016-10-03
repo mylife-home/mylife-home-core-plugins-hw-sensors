@@ -1,0 +1,20 @@
+{
+  "name": "mylife-home-core-plugins-hw-sensors",
+  "version": "0.0.1",
+  "description": "Mylife Home Core Plugin: HW sensors",
+  "main": "index.js",
+  "repository": "https://github.com/vincent-tr/mylife-home-core-plugins-hw-sensors",
+  "author": "Vincent Trumpff",
+  "dependencies": {
+    "log4js": "*",
+    "ds18b20": "*"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "jshint": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.js"
+  }
+}
