@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Mylife Home Core Plugin: HW sensors",
   "main": "index.js",
-  "repository": "https://github.com/vincent-tr/mylife-home-core-plugins-hw-sensors",
+  "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-sensors",
   "author": "Vincent Trumpff",
   "dependencies": {
     "log4js": "*",
