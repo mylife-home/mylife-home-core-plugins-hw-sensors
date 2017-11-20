@@ -6,7 +6,6 @@
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-sensors",
   "author": "Vincent Trumpff",
   "dependencies": {
-    "log4js": "*",
     "ds18b20": "*"
   },
   "devDependencies": {
